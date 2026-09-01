@@ -1,0 +1,34 @@
+:root {
+  /* Paleta: 1 primario + neutros + acento */
+  --page: #12142b;
+  --surface: #1b1f3b;
+  --surface-2: #262b52;
+  --ink: #f4f5fb;
+  --muted: #9aa0c7;
+  --primary: #ef4444;
+  --accent: #fbbf24;
+  --border: #333a68;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: var(--page);
+  color: var(--ink);
+  font-family: 'Poppins', system-ui, sans-serif;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+.bg-page {
+  background: var(--page);
+}

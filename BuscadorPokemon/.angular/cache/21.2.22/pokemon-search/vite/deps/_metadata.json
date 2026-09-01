@@ -1,0 +1,64 @@
+{
+  "hash": "00cfd60a",
+  "configHash": "46f0c9de",
+  "lockfileHash": "6bb3a49a",
+  "browserHash": "e33a3732",
+  "optimized": {
+    "@angular/common/http": {
+      "src": "../../../../../../node_modules/.pnpm/@angular+common@21.2.22_@angular+core@21.2.22_@angular+compiler@21.2.22_rxjs@7.8.2_zone.js@0.15.1__rxjs@7.8.2/node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "2fdb14d5",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/.pnpm/@angular+core@21.2.22_@angular+compiler@21.2.22_rxjs@7.8.2_zone.js@0.15.1/node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "5c72d794",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../node_modules/.pnpm/@angular+forms@21.2.22_@angular+common@21.2.22_@angular+core@21.2.22_@angular+compiler@_25ffd61d7fa975aafb863df7a299a3d9/node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "cfba9951",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/.pnpm/@angular+platform-browser@21.2.22_@angular+animations@21.2.22_@angular+core@21.2.22_@an_938f0ef379e2f5d010c736a286d78a2c/node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "e519c06a",
+      "needsInterop": false
+    },
+    "rxjs": {
+      "src": "../../../../../../node_modules/.pnpm/rxjs@7.8.2/node_modules/rxjs/dist/esm5/index.js",
+      "file": "rxjs.js",
+      "fileHash": "fb938c0a",
+      "needsInterop": false
+    },
+    "zone.js": {
+      "src": "../../../../../../node_modules/.pnpm/zone.js@0.15.1/node_modules/zone.js/fesm2015/zone.js",
+      "file": "zone__js.js",
+      "fileHash": "0e3ecf9a",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-WSA2AFRP": {
+      "file": "chunk-WSA2AFRP.js"
+    },
+    "chunk-762KUN5V": {
+      "file": "chunk-762KUN5V.js"
+    },
+    "chunk-OSX4XQ54": {
+      "file": "chunk-OSX4XQ54.js"
+    },
+    "chunk-O5P43HNO": {
+      "file": "chunk-O5P43HNO.js"
+    },
+    "chunk-3NTDFDXB": {
+      "file": "chunk-3NTDFDXB.js"
+    },
+    "chunk-WDMUDEB6": {
+      "file": "chunk-WDMUDEB6.js"
+    }
+  }
+}
