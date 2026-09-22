@@ -1,20 +1,20 @@
 import { Component } from '@angular/core';
-import { Pikachu } from './pikachu';
-import { Charizard } from './charizard';
-import { Bulbasaur } from './bulbasaur';
-import { Squirtle } from './squirtle';
-import { Mewtwo } from './mewtwo';
-import { Eevee } from './eevee';
+import { Bullbasaur } from '../pokemon/bullbasaur/bullbasaur';
+import { Charizard } from '../pokemon/charizard/charizard';
+import { Eevee } from '../pokemon/eevee/eevee';
+import { Mewtwo } from '../pokemon/mewtwo/mewtwo';
+import { Pikachu } from '../pokemon/pikachu/pikachu';
+import { Squirtle } from '../pokemon/squirtle/squirtle';
 
 @Component({
   selector: 'app-buscador-pokemon',
   imports: [
-    Pikachu,
+    Bullbasaur,
     Charizard,
-    Bulbasaur,
-    Squirtle,
+    Eevee,
     Mewtwo,
-    Eevee
+    Pikachu,
+    Squirtle
   ],
   templateUrl: './buscador-pokemon.html',
   styleUrl: './buscador-pokemon.css',

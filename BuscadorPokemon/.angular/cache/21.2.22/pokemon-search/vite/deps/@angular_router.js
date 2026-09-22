@@ -1,16 +1,18 @@
 import {
   HashLocationStrategy,
-  LOCATION_INITIALIZED,
   Location,
   LocationStrategy,
   NavigationAdapterForLocation,
   PRECOMMIT_HANDLER_SUPPORTED,
   PathLocationStrategy,
-  PlatformLocation,
   PlatformNavigation,
   Title,
   ViewportScroller
-} from "./chunk-ZJXJ3HRG.js";
+} from "./chunk-TIEZX5UB.js";
+import {
+  LOCATION_INITIALIZED,
+  PlatformLocation
+} from "./chunk-AS7WUJNH.js";
 import {
   APP_BOOTSTRAP_LISTENER,
   ApplicationRef,
